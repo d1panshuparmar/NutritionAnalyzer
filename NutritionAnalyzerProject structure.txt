@@ -1,0 +1,12 @@
+NutritionAnalyzerProject/
+├── lib/
+│   └── mysql-connector-j-8.x.x.jar   <-- MySQL JDBC driver
+├── src/
+│   ├── model/
+│   │   └── Food.java
+│   ├── dao/
+│   │   └── FoodDAO.java
+│   ├── util/
+│   │   └── DatabaseConnection.java
+│   └── ui/
+│       └── NutritionAnalyzer.java    <-- Main GUI
